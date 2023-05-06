@@ -1,0 +1,48 @@
+.card{
+    border: l=1px solid black;
+    width: 300px;
+    margin: 10px;
+    box-shadow: 0 0 6px blueviolet;
+    border-radius: 20px 20px 0 0;
+    display:inline-block;
+}
+.card img{
+    width: 100%;
+    height: 200px;
+    border-radius: 0px 0px 0 0;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    padding: 8px;
+}
+
+    
+text, .card{
+    width: 630px;
+  padding: 50px;
+  border-top: 3px solid #000 ;
+  box-sizing: border-box;
+}
+
+footer{
+    background-color: #ccc;
+    height: 100%;
+    line-height: 80px;
+    text-align: center;
+    width: 50%;
+    border-radius: 50px;
+    margin: 10px;
+    font-size: 30px
+}
+
+footer h3{
+    background: 10px;
+    background-color: gray;
+    text-align: center;
+    border-radius: 50px;
+
+    
+}
